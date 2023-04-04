@@ -12,4 +12,4 @@ Which help to easy understanding of the end-user and give meaningful insights.
 
 #showing the sales in 2014 according to the selected region(Africa)
 
-![image](https://user-images.githubusercontent.com/107194071/229883786-612cd30b-c1c0-4afc-8baa-90e3b72bdcd9.png)
+

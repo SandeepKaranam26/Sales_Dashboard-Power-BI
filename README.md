@@ -10,6 +10,8 @@ Which help to easy understanding of the end-user and give meaningful insights.
 
 ![Screenshot (438)](https://user-images.githubusercontent.com/107194071/229883137-b3830187-8e94-4878-9844-23f2b878e93f.png)
 
-#showing the sales in 2014 according to the selected region(Africa)
+#We can see that most of the sales in Asia in the yaer 2015 are mainly on the smartphone market like Apple and Bookcases.
+![image](https://user-images.githubusercontent.com/107194071/229886236-75daaac7-3dc0-40ea-93b1-2915b1372bbf.png)
+
 
 

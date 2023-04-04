@@ -1,3 +1,9 @@
 # Sales_Dashboard-Power-BI
-![image](https://user-images.githubusercontent.com/107194071/229878254-5cc931e4-6a34-4392-9d57-fe40d541e4ac.png)
+In this project, i have made a intractive Power BI Sales Dashboard on Global_super_store sales data and find some insights from the data. In order to building the dashboard the ETL process was done as per the requirements, Power query was used to clean and transform the data and DAX was used for creating the culculated measures and culculated column.
+Once done with the culculations, i have made visualizations and create report using cards, charts, slicer etc.
+Which help to easy understanding of the end-user and give meaningful insights.
+
+##Tools and Technology used-
+1. Microsoft Power BI
+2. MS Excel
 
